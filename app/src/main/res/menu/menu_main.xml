@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.codingmounrtain.addtocartbadgecount.MainActivity">
+    <item
+        android:id="@+id/cart_action"
+        android:orderInCategory="100"
+        android:title="@string/action_Cart"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/notification_action"
+        android:orderInCategory="100"
+        android:title="@string/action_Notification"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AddToCartBadgeCount</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_Cart">Cart</string>
+    <string name="action_Notification">Notification</string>
+    <string name="add">addbt</string>
+    <string name="remove">removebt</string>
+</resources>
